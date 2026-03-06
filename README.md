@@ -75,7 +75,8 @@ Telegram	https://t.me/lcsilicon
 欢迎安全团队、分发渠道、应用开发者洽谈合作：https://t.me/lcsilicon
 
 📝 常见问题
-<details> <summary><strong>免杀后的APK会影响原有功能吗？</strong></summary> 不会。我们的技术只在编译层面进行代码混淆和加密保护，不影响应用原有的业务逻辑和用户使用体验。 </details><details> <summary><strong>处理一个APK需要多长时间？</strong></summary> 通常只需1-3分钟，具体时间取决于APK文件大小和当前服务器负载。 </details><details>
+<details> <summary><strong>免杀后的APK会影响原有功能吗？</strong></summary> 不会。我们的技术只在编译层面进行代码混淆和加密保护，不影响应用原有的业务逻辑和用户使用体验。 </details><details> <summary><strong>处理一个APK需要多长时间？</strong></summary> 通常只需1-3分钟，具体时间取决于APK文件大小和当前服务器负载。 </details>
+
 📜 免责声明
 本工具仅供合法的Android应用开发者保护自有应用使用。用户需确保拥有所提交APK的合法权利，不得用于非法用途。对于因非法使用本工具导致的任何法律问题，本公司不承担任何责任。
 
