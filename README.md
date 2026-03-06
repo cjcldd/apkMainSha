@@ -61,12 +61,18 @@
 | **反编译源码可见性** | 100% 可读 | 0% (VMP 保护) |
 | **敏感字符串泄露** | 暴露明文 | 全加密混淆 |
 | **安装成功率** | 易受限 | 99.9% 顺畅 |
-处理前：
-<img src="https://github.com/user-attachments/assets/43dc1445-56da-48c7-8ad8-7508a2e1b421" width="300" alt="处理前">
-处理后：
-<img src="https://github.com/user-attachments/assets/ab91a146-0e4d-4327-960f-ad82982267e6" width="300" alt="处理后">
 
-由于安全考虑，更多免杀案例，请打开官方、或者联系客服查看。
+<p align="center">
+<img src="https://github.com/user-attachments/assets/43dc1445-56da-48c7-8ad8-7508a2e1b421" width="45%" alt="处理前">
+<img src="https://github.com/user-attachments/assets/ab91a146-0e4d-4327-960f-ad82982267e6" width="45%" alt="处理后">
+
+
+<b>左：处理前 (多项报毒) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 右：处理后 (安全无毒)</b>
+</p>
+
+[!TIP]
+安全声明： 由于合规与隐私考虑，此处仅展示部分通用案例。
+欲了解更多加固细节或查看针对 Android 15/16 的最新免杀报告，请访问 官方控制台 或联系技术支持。
 ---
 
 ## 💡 适用场景
