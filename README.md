@@ -63,11 +63,9 @@
 | **安装成功率** | 易受限 | 99.9% 顺畅 |
 
 <p align="center">
+<b>左：处理前 (多项报毒) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 右：处理后 (安全无毒)</b>
 <img src="https://github.com/user-attachments/assets/43dc1445-56da-48c7-8ad8-7508a2e1b421" width="30%" alt="处理前">
 <img src="https://github.com/user-attachments/assets/ab91a146-0e4d-4327-960f-ad82982267e6" width="30%" alt="处理后">
-
-
-<b>左：处理前 (多项报毒) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 右：处理后 (安全无毒)</b>
 </p>
 
 [!TIP]
