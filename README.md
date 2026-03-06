@@ -62,7 +62,7 @@
 | **敏感字符串泄露** | 暴露明文 | 全加密混淆 |
 | **安装成功率** | 易受限 | 99.9% 顺畅 |
 
-<p align="center">
+<p align="">
 <img src="https://github.com/user-attachments/assets/43dc1445-56da-48c7-8ad8-7508a2e1b421" width="30%" alt="处理前">
 <img src="https://github.com/user-attachments/assets/ab91a146-0e4d-4327-960f-ad82982267e6" width="30%" alt="处理后">
 
