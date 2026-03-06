@@ -63,10 +63,6 @@
 | **安装成功率** | 易受限 | 99.9% 顺畅 |
 <img src="https://github.com/user-attachments/assets/43dc1445-56da-48c7-8ad8-7508a2e1b421" width="300" alt="处理前">
 <img src="https://github.com/user-attachments/assets/ab91a146-0e4d-4327-960f-ad82982267e6" width="300" alt="处理后">
-![before1_](https://github.com/user-attachments/assets/43dc1445-56da-48c7-8ad8-7508a2e1b421)
-
-![after1_](https://github.com/user-attachments/assets/ab91a146-0e4d-4327-960f-ad82982267e6)
-
 
 由于安全考虑，更多免杀案例，请打开官方、或者联系客服查看。
 ---
