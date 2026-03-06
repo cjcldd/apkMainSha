@@ -91,6 +91,5 @@ Telegram	https://t.me/lcsilicon
 ⭐ 支持我们
 如果您觉得这个项目对您有帮助，请给我们一个Star ⭐，让更多开发者看到！
 
-https://api.star-history.com/svg?repos=yourusername/apk-hardening&type=Date
 
 <p align="center"> Copyright © 2026 APK免杀专家. All Rights Reserved. </p>
