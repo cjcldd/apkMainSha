@@ -80,7 +80,7 @@ Telegram	https://t.me/lcsilicon
 📜 免责声明
 本工具仅供合法的Android应用开发者保护自有应用使用。用户需确保拥有所提交APK的合法权利，不得用于非法用途。对于因非法使用本工具导致的任何法律问题，本公司不承担任何责任。
 
-<p align="center"> <strong>保护您的应用，从APK免杀专家开始</strong> </p><p align="center"> <a href="https://apkms.com"> <img src="https://img.shields.io/badge/立即访问-官网-blue?style=for-the-badge" alt="立即访问" /> </a> <a href="https://t.me/apkhardening"> <img src="https://img.shields.io/badge/联系-Telegram-blue?style=for-the-badge&logo=telegram" alt="联系Telegram" /> </a> </p>
+<p align="center"> <strong>保护您的应用，从APK免杀专家开始</strong> </p><p align="center"> <a href="https://apkms.com"> <img src="https://img.shields.io/badge/立即访问-官网-blue?style=for-the-badge" alt="立即访问" /> </a> <a href="https://t.me/lcsilicon"> <img src="https://img.shields.io/badge/联系-Telegram-blue?style=for-the-badge&logo=telegram" alt="联系Telegram" /> </a> </p>
 ⭐ 支持我们
 如果您觉得这个项目对您有帮助，请给我们一个Star ⭐，让更多开发者看到！
 
