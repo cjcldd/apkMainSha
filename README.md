@@ -1,95 +1,118 @@
-APK免杀专家 - 专业的Android应用保护方案
-<p align="center"> <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version 1.0.0" /> <img src="https://img.shields.io/badge/platform-Android-brightgreen.svg" alt="Platform Android" /> <img src="https://img.shields.io/badge/license-Commercial-red.svg" alt="License Commercial" /> </p><p align="center"> <strong>🚀 让您的APK安全无忧，100%绕过主流病毒查杀</strong> </p><p align="center"> <a href="#核心功能">核心功能</a> • <a href="#技术原理">技术原理</a> • <a href="#效果对比">效果对比</a> • <a href="#联系我们">联系我们</a> </p>
-📋 项目简介
-APK免杀专家是一款专业的Android应用保护工具，通过先进的技术手段为APK文件提供全方位的安全免杀服务。无论您是个人开发者、企业用户还是安全研究人员，我们都能帮助您的应用有效绕过主流杀毒软件的检测，保护核心代码和资产安全。
+# 🛡️ APK 免杀专家 (APK-Protector Pro)
+### 专业的 Android 应用安全加固与全方位保护方案
 
-我们的技术已在超过1000+个应用上得到验证，处理后的APK文件查杀通过率高达99.9%，同时保持应用原有功能和性能不受影响。
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=android" alt="Version" />
+  <img src="https://img.shields.io/badge/Platform-Android-brightgreen?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Status-Stable-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-Commercial-red?style=for-the-badge" />
+</p>
 
-✨ 核心功能
-功能	描述
-🛡️ VMP虚拟机保护	
-基于虚拟机的代码保护技术，将原始指令转换为虚拟机指令，极大增加逆向破解难度
-🧩 DEX动态加载	
-核心DEX文件加密存储在Assets中，运行时解密加载，有效绕过静态扫描
-🔒 内存保护	
-防止调试器附加，检测运行环境，保护进程内存空间不被非法访问
-⚙️ So库加密	
-对Native层So库进行加壳和混淆，增加IDA等工具的逆向分析难度
-📦 资源文件保护	
-对APK中的图片、布局等资源进行加密，防止一键解包和资源盗用
-🚀 压缩与优化	
-使用UPX等压缩壳减小应用体积，同时对壳特征进行抹除，防止被杀毒软件识别
+<p align="center">
+  <strong>🚀 赋予您的 APK 隐身能力，100% 绕过主流安全引擎查杀</strong>
+  <br />
+  <a href="#-核心功能">核心功能</a> • <a href="#-技术原理">技术原理</a> • <a href="#-效果对比">效果对比</a> • <a href="#-快速开始">快速开始</a> • <a href="#-联系我们">联系我们</a>
+</p>
 
-🔬 技术原理
-代码混淆
-将源代码中的变量名、函数名替换为无意义的字符，增加反编译后代码的阅读难度，从而绕过基于特征码的静态扫描。
+---
 
-动态加载
-在程序运行时动态加载和解密核心代码或DEX文件，避免恶意代码在安装包中明文存在，有效对抗静态分析工具。
+## 📖 项目简介
 
-加壳保护
-使用VMP等加壳工具对APK进行加壳，将原始DEX文件加密或压缩，运行时在内存中还原，是目前强度最高的保护方式之一。
+**APK 免杀专家** 是一款专为开发者与安全研究人员打造的高级加固工具。我们不仅保护您的核心代码不被逆向，更通过尖端的混淆与动态加载技术，使应用能够有效避开杀毒软件（AV）的静态特征检测与动态行为分析。
 
-反射调用
-通过Java的反射机制在运行时动态调用关键API和敏感功能，避免在代码中直接出现敏感字符串和方法调用，降低动态检测的命中率。
+* **实战验证：** 已成功加固 1000+ 应用，稳定性极佳。
+* **极致兼容：** 支持从 Android 5.0 到最新的 Android 14+。
+* **性能无损：** 在高强度保护的同时，保持应用原有的流畅运行体验。
 
-📊 效果对比
+---
 
-由于安全考虑，我们不在GitHub公开具体截图。如需查看真实处理前后的对比效果，请联系我们获取演示视频。
-
-💡 适用场景
-✅ 海外应用分发 - 绕过Google Play Protect检测，顺利安装
-
-✅ 金融理财APP - 保护核心交易逻辑和用户数据
-
-✅ 游戏辅助工具 - 避免被杀毒软件误报为恶意程序
-
-✅ 企业内部分发 - 确保企业应用不被第三方篡改
-
-✅ 隐私保护应用 - 保护敏感功能和代码不被逆向分析
-
-🚀 快速开始
-1. 访问官网
-前往我们的官方网站注册账号：https://apkms.cjcqqhvpn.nyc.mn 
-
-2. 上传APK
-在用户中心上传您的APK文件（支持最大500MB）。
-
-3. 一键免杀
-选择处理选项，点击"提交处理"，等待系统自动完成免杀（通常只需1-3分钟）。
-
-4. 下载使用
-处理完成后，下载免杀后的APK文件，即可分发使用。
-
-💎 为什么选择我们
-高成功率 - 99.9%的APK可成功绕过主流杀毒软件以及主流机型
-
-简单易用 - 无需配置环境，上传即可处理
-
-快速响应 - 24/7技术支持，问题及时解决
-
-持续更新 - 针对最新杀毒引擎特征持续优化算法
-
-安全保障 - 所有上传文件加密存储，处理完成后自动删除
-
-📞 联系我们
-
-Telegram	https://t.me/lcsilicon
-
-官方网站	https://apkms.cjcqqhvpn.nyc.mn
-
-商务合作
-欢迎安全团队、分发渠道、应用开发者洽谈合作：https://t.me/lcsilicon
-
-📝 常见问题
-<details> <summary><strong>免杀后的APK会影响原有功能吗？</strong></summary> 不会。我们的技术只在编译层面进行代码混淆和加密保护，不影响应用原有的业务逻辑和用户使用体验。 </details><details> <summary><strong>处理一个APK需要多长时间？</strong></summary> 通常只需1-3分钟，具体时间取决于APK文件大小和当前服务器负载。 </details>
-
-📜 免责声明
-本工具仅供合法的Android应用开发者保护自有应用使用。用户需确保拥有所提交APK的合法权利，不得用于非法用途。对于因非法使用本工具导致的任何法律问题，本公司不承担任何责任。
-
-<p align="center"> <strong>保护您的应用，从APK免杀专家开始</strong> </p><p align="center"> <a href="https://.cjcqqhvpn.nyc.mn"> <img src="https://img.shields.io/badge/立即访问-官网-blue?style=for-the-badge" alt="立即访问" /> </a> <a href="https://t.me/lcsilicon"> <img src="https://img.shields.io/badge/联系-Telegram-blue?style=for-the-badge&logo=telegram" alt="联系Telegram" /> </a> </p>
-⭐ 支持我们
-如果您觉得这个项目对您有帮助，请给我们一个Star ⭐，让更多开发者看到！
+## ✨ 核心功能
 
 
-<p align="center"> Copyright © 2026 APK免杀专家. All Rights Reserved. </p>
+
+| 功能模块 | 技术描述 | 防护等级 |
+| :--- | :--- | :---: |
+| **VMP 虚拟机保护** | 将 DEX 指令转换为自定义私有指令集，让反编译工具彻底失效。 | 🛡️🛡️🛡️ |
+| **DEX 动态加载** | 核心逻辑加密存放，运行时内存解密，静态扫描只能看到“空壳”。 | 🛡️🛡️🛡️ |
+| **So 库深度加壳** | 对 Native 层进行段加密与符号混淆，极大增加 IDA Pro 分析成本。 | 🛡️🛡️ |
+| **资源文件混淆** | 混淆图片、XML 及 Assets，防止一键解包与非法资源提取。 | 🛡️🛡️ |
+| **反调试与环境检测** | 自动识别 Root、模拟器及 Hook 框架（如 Xposed/Frida）。 | 🛡️🛡️🛡️ |
+
+---
+
+## 🔬 技术原理
+
+### 1. 多层级代码混淆
+不仅仅是重命名类名，我们通过 **控制流平坦化 (Control Flow Flattening)** 彻底打乱逻辑顺序，使逻辑图变成复杂的网状结构。
+
+### 2. 内存隔离技术
+在应用启动瞬间，在内存中构建私有运行环境，确保敏感 API 调用不被系统日志捕捉，有效对抗动态沙盒。
+
+### 3. 特征码动态抹除
+针对已知加壳特征进行随机化处理，确保每一个生成的 APK 签名和特征都是唯一的，避开“全家桶”式的特征库封杀。
+
+---
+
+## 📊 效果对比
+
+| 检测指标 | 原始 APK | 处理后 (Pro 版) |
+| :--- | :---: | :---: |
+| **主流杀毒软件报毒** | 🔴 严重警告 | ✅ 100% 纯净 |
+| **反编译源码可见性** | 100% 可读 | 0% (VMP 保护) |
+| **敏感字符串泄露** | 暴露明文 | 全加密混淆 |
+| **安装成功率** | 易受限 | 99.9% 顺畅 |
+
+---
+
+## 💡 适用场景
+
+* **✅ 海外分发：** 完美绕过 Google Play Protect 的误报拦截。
+* **✅ 金融/支付：** 保护支付网关地址与核心交易加密算法。
+* **✅ 商业软件：** 防止竞争对手逆向分析核心业务逻辑。
+* **✅ 隐私保护：** 确保敏感功能代码不被第三方监听或篡改。
+
+---
+
+## 🚀 快速开始
+
+只需三步，即可完成专业级加固：
+
+1.  **访问控制台：** 前往 [官方网站](https://apkms.cjcqqhvpn.nyc.mn) 注册账号。
+2.  **上传 APK：** 在用户中心上传您的 APK 文件（支持最大 500MB）。
+3.  **一键处理：** 点击“提交处理”，通常在 1-3 分钟内即可下载成品。
+
+---
+
+## 📞 联系我们
+
+如果您有任何定制化需求或商务合作意向，请随时联系：
+
+* **Telegram 客服:** [点击联系 @lcsilicon](https://t.me/lcsilicon)
+* **官方网站:** [apkms.cjcqqhvpn.nyc.mn](https://apkms.cjcqqhvpn.nyc.mn)
+
+---
+
+## 📝 常见问题 (FAQ)
+
+<details>
+<summary><b>Q1: 加固后是否会影响 Google Play 上架？</b></summary>
+我们的技术方案兼容 Google Play 的安全规范，能有效解决由于特征码引起的误报问题，提升过包率。
+</details>
+
+<details>
+<summary><b>Q2: 对 APP 的启动速度有影响吗？</b></summary>
+微乎其微。解密过程在极短时间内完成，用户几乎感知不到延迟。
+</details>
+
+---
+
+> **⚠️ 免责声明：**
+> 本工具仅限用于合法的安全研究与合规的应用保护。用户需确保对所提交的应用拥有合法所有权。严禁用于任何形式的恶意软件制作，违者后果自负。
+
+<p align="center">
+  <b>如果您觉得这个项目有用，请点个 Star ⭐ 支持我们！</b>
+</p>
+
+<p align="center">
+  Copyright © 2026 APK免杀专家. All Rights Reserved.
+</p>
