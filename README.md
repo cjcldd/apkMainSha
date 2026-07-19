@@ -99,7 +99,7 @@
 
 如果您有任何定制化需求或商务合作意向，请随时联系：
 
-* **Telegram 客服:** [点击联系 @lcsilicon](https://t.me/lcsilicon)
+* **Telegram 客服:** [点击联系 @apkmszj](https://t.me/apkmszj)
 * **官方网站:** [apkms.cjcqqhvpn.nyc.mn](https://apkms.cjcqqhvpn.nyc.mn)
 
 ---
