@@ -89,7 +89,7 @@
 
 只需三步，即可完成专业级免杀：
 
-1.  **访问控制台：** 前往 [官方网站](https://apkms.cjcqqhvpn.nyc.mn) 注册账号。
+1.  **访问控制台：** 前往 [官方网站](https://apkms.dzsqqh.com) 注册账号。
 2.  **上传 APK：** 在用户中心上传您的 APK 文件（支持最大 500MB）。
 3.  **一键处理：** 点击“提交处理”，通常在 1-3 分钟内即可下载成品。
 
@@ -100,7 +100,7 @@
 如果您有任何定制化需求或商务合作意向，请随时联系：
 
 * **Telegram 客服:** [点击联系 @apkmszj](https://t.me/apkmszj)
-* **官方网站:** [apkms.cjcqqhvpn.nyc.mn](https://apkms.cjcqqhvpn.nyc.mn)
+* **官方网站:** [apkms.dzsqqh.com](https://apkms.dzsqqh.com)
 
 ---
 
